@@ -1,0 +1,37 @@
+body{
+  scroll-behavior: auto;
+  overflow: hidden;
+}
+
+.text-center {
+  text-align: center;
+  color: aquamarine;
+  margin-top: 7rem;
+  font-size: 70px;
+  font-weight: bolder;
+}
+
+.bg-red {
+  background: red;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.container{
+  margin-top: -1rem;
+  position: relative;
+}
